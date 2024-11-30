@@ -60,7 +60,7 @@ my_account.display_balance()
 1. 安裝 Python 3.7 或更新版本。
 2. 克隆這個倉庫:
 ```bash
-git clone <[bankaccount](https://github.com/code50/178798368/blob/d6230f54db9b8de1cb4cb6a6c736de123c3fef3f/bankaccount)>
+git clone <[bankaccount](https://github.com/Jc-0128/API/tree/main/bankaccount)>
 ```
 3. 在專案目錄中創建和編輯 `bankaccount.py` 文件，並將 BankAccount 類別代碼複製到該文件中。
 4. 在專案目錄中創建和編輯 `test.py` 文件，並將測試代碼複製到該文件中。
